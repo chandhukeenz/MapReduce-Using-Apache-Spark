@@ -1,6 +1,6 @@
-# ArbitrageGainer
+# Historical Arbitrage Gainer Opportunities Calculation Using Apache Spark
 
-**ArbitrageGainer** is a PySpark-based application designed to identify historical arbitrage opportunities in cryptocurrency trading by analyzing price discrepancies across multiple exchanges.
+**Historical Arbitrage Gainer Opportunities Calculationr** is a PySpark-based application designed to identify historical arbitrage opportunities in cryptocurrency trading by analyzing price discrepancies across multiple exchanges.
 
 ## Table of Contents
 
